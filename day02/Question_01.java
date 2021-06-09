@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Question_01 {
 
 	public static void main(String[] args) {
-	/*
+		/*
 		 * 
          * Kullanicidan 3 kelime isteyin ve cumle olarak yazdirip sonuna . koyun
          *
@@ -26,7 +26,6 @@ public class Question_01 {
 		System.out.println(kelime1+" "+kelime2+" "+kelime3+".");
 		
 		scan.close();
-
 
 	}
 
