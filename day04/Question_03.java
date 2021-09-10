@@ -22,7 +22,13 @@ public class Question_03 {
 		/*
 		 * 2. sorunun cevabi
 		 * 
-		for(int i = 100 ; i < 1000 ; i++) {
+		for(int i = 1; i < 1000 ; i++) {
+			armstrong(i);
+		}
+		*
+		* girilen n sayisina kaar olan amstrong sayilari yazdirinz
+		*
+		* 	for(int i = 1; i < n ; i++) {
 			armstrong(i);
 		}
 		*/
