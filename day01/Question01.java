@@ -28,7 +28,6 @@ public class Question01 {
 
 	TENIS FUTBOL VOLEYBOL
 		 */
-		
 		System.out.println("Hasan");
 		System.out.println("180");
 		System.out.println("80");
